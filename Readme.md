@@ -1,11 +1,3 @@
-![image](https://img.shields.io/badge/tailwind-paytm-blue)
-
-
-## Paytm website clone using tailwind CSS  [live Link](https://paytm-clone-tailwind.netlify.app/)
-
-**Name:** Avishkar Vichare
-
-**The project took ***20 Hours*** to complete.** 
 
 
 ![image](https://github.com/AvishkarVichare/paytm-clone-tailwind/blob/master/images/img.png)
